@@ -1,7 +1,7 @@
 
 # Dina Almassova
 
-<img src="https://github.com/Tekitoka/rsschool-cv/blob/007f6226e8531da96982754daf6527d18bdaf81f/Dina.svg" weight="200" height="200") 
+<img src="https://github.com/Tekitoka/rsschool-cv/blob/007f6226e8531da96982754daf6527d18bdaf81f/Dina.svg" weight="200" height="200">
 
 
 ## Contact Information
