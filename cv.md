@@ -1,7 +1,7 @@
 
 # Dina Almassova
 
-![my photo](/Dina.svg "my photo")
+<img scr="https://github.com/Tekitoka/rsschool-cv/blob/gh-pages/Dina.svg" width = "200" height= "200">
 
 ## Contact Information
 Phone: +77778699621
