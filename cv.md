@@ -1,7 +1,7 @@
 
 # Dina Almassova
 
-[Dina.svg](https://github.com/Tekitoka/rsschool-cv/blob/007f6226e8531da96982754daf6527d18bdaf81f/Dina.svg ==200*200) 
+![Dina.svg](https://github.com/Tekitoka/rsschool-cv/blob/007f6226e8531da96982754daf6527d18bdaf81f/Dina.svg ==200*200) 
 
 
 ## Contact Information
