@@ -5,7 +5,9 @@
 
 ## Contact Information
 Phone: +77778699621
+
 Email: dina.almassova@nu.edu.kz
+
 Telegram: @tekitoka
 
 
@@ -18,10 +20,8 @@ I'm eager to learn new things and to hone my skills.
 
 
 ## Skills
--Languages: HTML, CSS, basics of JavaScript, SQL
-
-
--Tools: Git, IntelIJ, MySQL
+- *Languages*: HTML, CSS, basics of JavaScript, SQL
+- *Tools*: Git, IntelIJ, MySQL
 
 
 ## Code example
@@ -38,7 +38,7 @@ String.prototype.toJadenCase = function () {
 
 ## Education 
 
-- Nazarbayev University *Aug 2020 - May 2024*
+- Nazarbayev University *Aug 2020 - May 2024*  
 *BS in Computer Science*
 
 
