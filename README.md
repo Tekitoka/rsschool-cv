@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://Tekitoka.github.io/rsschool-cv/cv
+https://Tekitoka.github.io/rsschool-cv/
